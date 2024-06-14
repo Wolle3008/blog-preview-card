@@ -23,7 +23,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Git Hub Repo](https://github.com/Wolle3008/blog-preview-card/edit)
+- Solution URL: [Git Hub Repo](https://github.com/Wolle3008/blog-preview-card)
 - Live Site URL: [Live view](https://wolle3008.github.io/blog-preview-card/)
 
 ## My process
